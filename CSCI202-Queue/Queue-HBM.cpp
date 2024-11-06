@@ -1,21 +1,21 @@
-/**************************************************************
- *        Programming Assignment 3.1: Queues                                                      *
- *                                                            *
- *        Programmer: Hershey Marbeda                                                                 *
- *        Instructor: Dr. Carver                                                                                  *
- *        Class: CSCI 202: Data Sturctures and Algorithms                                     *
- *        Due Date: 11.12.2024                                                                                *
- *                                                            *
- *        Last Date Updated: 11.6.2024                                                                   *
- *                                                          *
- *        Description: This program demonstrates the use of queues                    *
- **************************************************************/
-/*
-   Programming Exercise #13 Ch. 17 (p. 1277) - This chapter describes the array implementation of queues that use a special array slot,
-   called the reserved slot, to distinguish between an empty and a full queue. Write the definition of the class and the definitions
-   of the function members of this queue design. Also, write a test program to test various operations on a queue
-*/
-
+/********************************************************************************************
+ *        Programming Assignment 3.1: Queues                                                *                          
+ *                                                                                          *         
+ *        Programmer: Hershey Marbeda                                                       *                                                            
+ *        Instructor: Dr. Carver                                                            *                       
+ *        Class: CSCI 202: Data Sturctures and Algorithms                                   *                          
+ *        Due Date: 11.12.2024                                                              *                                      
+ *                                                                                          *
+ *        Last Date Updated: 11.6.2024                                                      *                                                              
+ *                                                                                          *
+ *        Description: This program demonstrates the use of queues                          *
+ *                                                                                          *
+ *  Programming Exercise #13 Ch. 17 (p. 1277) - This chapter describes the array            *
+ *  implementation of queues that use a special array slot,                                 *
+ *  called the reserved slot, to distinguish between an empty and a full queue.             *
+ *  Write the definition of the class and the definitions of the function members of        *
+ *  this queue design. Also, write a test program to test various operations on a queue     *
+ ********************************************************************************************/
 
 #include <iostream>
 #include <queue>

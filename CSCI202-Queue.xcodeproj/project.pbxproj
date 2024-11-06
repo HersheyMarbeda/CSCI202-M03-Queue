@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		C02E1E382CDBE4C30058A02E /* CSCI202-Queue */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CSCI202-Queue"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C02E1E5D2CDC099D0058A02E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -44,6 +45,7 @@
 		C02E1E2F2CDBE4C30058A02E = {
 			isa = PBXGroup;
 			children = (
+				C02E1E5D2CDC099D0058A02E /* README.md */,
 				C02E1E3A2CDBE4C30058A02E /* CSCI202-Queue */,
 				C02E1E392CDBE4C30058A02E /* Products */,
 			);

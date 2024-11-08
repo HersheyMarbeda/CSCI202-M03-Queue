@@ -5,5 +5,3 @@
 1. Queues:
    - #13: I implemented Queues using singly Linked Lists and in FIFO structure
    - #17: I implemented Queues using singly Linked Lists as well
-2. Hash Functions
-   - [I haven't implemented this yet.]

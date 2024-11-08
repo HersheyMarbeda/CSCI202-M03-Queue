@@ -3,7 +3,7 @@
 *                                                                                          *         
 *        Programmer: Hershey Marbeda                                                       *                                                            
 *        Instructor: Dr. Carver                                                            *                       
-*        Class: CSCI 202: Data Sturctures and Algorithms                                   *                          
+*        Class: CSCI 202: Data Structures and Algorithms                                   *                          
 *        Due Date: 11.12.2024                                                              *                                      
 *                                                                                          *
 *        Last Date Updated: 11.6.2024                                                      *                                                              

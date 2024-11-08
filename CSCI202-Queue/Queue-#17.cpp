@@ -131,11 +131,11 @@ int main()
     return 0;
 }
 
-/************* Expected Output          *
+/********* Expected Output *********
  * 5 has been added to the queue   *
  * 10 has been added to the queue  *
  * 15 has been added to the queue  *
  * 20 has been added to the queue  *
  * 25 has been added to the queue  *
  * Queue is not empty              *
-*/
+ ***********************************/

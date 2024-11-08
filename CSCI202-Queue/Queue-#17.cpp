@@ -3,12 +3,12 @@
      *                                                                                          *
      *        Programmer: Hershey Marbeda                                                       *
      *        Instructor: Dr. Carver                                                            *
-     *        Class: CSCI 202: Data Sturctures and Algorithms                                   *
+     *        Class: CSCI 202: Data Structures and Algorithms                                   *
      *        Due Date: 11.12.2024                                                              *
      *                                                                                          *
      *        Last Date Updated: 11.8.2024                                                      *
      *                                                                                          *
-     *        Description: This program demonstrates the use of queues (FIFO)                          *
+     *        Description: This program demonstrates the use of queues (FIFO)                   *
      *                                                                                          *
      *  Programming Exercise #17 - Ch. 17 (p. 1278) - Write the definition of the               *
      *  class linkedQueueType, which is derived from the class unorderedLinkedList, as          *
